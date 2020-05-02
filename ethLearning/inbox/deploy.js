@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'call glow acoustic vintage front ring trade assist shuffle mimic volume reject',
-  'https://rinkeby.infura.io/orDImgKRzwNrVCDrAk5Q'
+  'sustain body pet island music narrow grape apology sponsor winner actual amazing',
+  'https://rinkeby.infura.io/v3/9075883ee7cf4218971e0aca63928d9d'
 );
 const web3 = new Web3(provider);
 
